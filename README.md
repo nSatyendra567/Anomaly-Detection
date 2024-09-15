@@ -14,8 +14,8 @@ This project focuses on detecting anomalies in a real-time data stream using Pyt
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/nSatyendra567/Anomaly-Detection
+    cd Anomaly-Detection
     ```
 
 2. **Create and activate a virtual environment**:
